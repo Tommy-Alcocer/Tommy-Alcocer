@@ -30,12 +30,3 @@
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00B4D8" alt="MySQL" />
   
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Tarjeta de estadísticas con tema "synthwave" para mantener el estilo neón -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tommy-Alcocer&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
